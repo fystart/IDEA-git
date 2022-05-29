@@ -5,5 +5,7 @@ public class GitCode {
         System.out.println("hello,git");
         System.out.println("hello,git");
         System.out.println("hello,git");
+        System.out.println("hello,git");
+        System.out.println("hello,git");
     }
 }
